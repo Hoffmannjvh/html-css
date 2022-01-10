@@ -55,3 +55,7 @@ a {
 img {
 	width: inherit;
 }
+
+ol, ul {
+	list-style: none;
+}
