@@ -54,12 +54,12 @@
 }
 
 
-#table01 {
+.tabela__cabecalho {
     width: 100%;
     border: 1px solid black;
 }
 
-#table02 {
+.tabela__cabecalho___dentro{
     width: 100%;
     
 }
@@ -189,8 +189,8 @@
 }
 
 
-#td01 {
-    width: 30px;
+.nome {
+    width: 1.875rem;
 }
 
 

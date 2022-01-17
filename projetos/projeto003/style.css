@@ -25,7 +25,7 @@ h1 {
 
 #table03 {
     border: 1px solid black;
-    width: 628px;
+    width: 100%;
     margin-top: -26px;
     margin-left: 939px;
 }
@@ -33,7 +33,7 @@ h1 {
 #table04 {
     border: 1px solid black;
     border-radius: 0px 0px 0px 5px;
-    width: 280px;
+    width: 100%;
     margin-top: -1px;
 }
 
