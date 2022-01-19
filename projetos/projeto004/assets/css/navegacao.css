@@ -1,0 +1,16 @@
+.navegacao__links {
+    width: 379px;
+    height: 129px;
+    left: 952px;
+    top: 32px;
+
+    position: absolute;
+
+    font-family: var(--sarala);
+}
+
+.navegacao__container {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}

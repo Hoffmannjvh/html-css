@@ -1,0 +1,20 @@
+:root {
+    --sarala: 'Sarala' sans-serif;
+
+    --branco: #FFF2E7;
+    --branco-transparente: #FFFFFF69;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+}
+
+a {
+    text-decoration: none;
+    color: var(--branco);
+}
+
+a:hover {
+    color: var(--branco-transparente);
+    text-decoration: underline;
+}
