@@ -1,0 +1,31 @@
+.conteudo__linha-top {
+    
+    position: absolute;
+    width: 99.9%;
+    height: 0px;
+    left: 0px;
+    top: 96px;
+
+    border: 0.4px solid #FFF2E7;
+}
+
+.conteudo__linha-baixo {
+    position: absolute;
+    width: 276.04px;
+    height: 0px;
+    left: calc(50% - 10%);
+    top: 576px;
+
+    border: 0.4px solid #FFF2E7;
+}
+
+.conteudo__linha-footer {
+    
+    position: absolute;
+    width: 99.9%;
+    height: 0px;
+    left: 0px;
+    top: 925px;
+
+    border: 0.4px solid #FFF2E7;
+}

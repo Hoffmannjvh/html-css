@@ -7,6 +7,7 @@
 
 body {
     background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
 }
 
 a {
@@ -17,4 +18,15 @@ a {
 a:hover {
     color: var(--branco-transparente);
     text-decoration: underline;
+}
+
+.footer {
+    position: absolute;
+    height: 99px;
+    left: calc(53% - 10%);
+    top: 956px;
+
+
+    font-size: 100px;
+    line-height: 123px;
 }
